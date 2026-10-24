@@ -1,0 +1,62 @@
+{
+  "checked": "2026-10-25",
+  "github_commits": [
+    {
+      "url": "https://api.github.com/repos/cenglin123/computer-use-mcp/git/trees/master?recursive=1",
+      "commit": "7b0aa991bcc229ea6c7df033253a556256b755a4"
+    },
+    {
+      "url": "https://api.github.com/repos/t1m0nch1k/computer-use-windows/git/trees/main?recursive=1",
+      "commit": "db1eb8f6117d4377c381728a86e3aad533ef584e"
+    }
+  ],
+  "clawhub": {
+    "owner": "wimi321",
+    "slug": "computer-use-windows",
+    "version": "0.1.1",
+    "registry_license": "MIT-0",
+    "review": "Source inspected only; no original runtime copied or executed"
+  },
+  "files": {
+    "ceng-budget": {
+      "url": "https://raw.githubusercontent.com/cenglin123/computer-use-mcp/master/skills/computer-use/context-budget.md",
+      "status": 200,
+      "sha256": "4e92614d02d9bd30a2197375a8ccac3fe6ca611a546c5acdb3dda6736097d2d5"
+    },
+    "win-screen": {
+      "url": "https://raw.githubusercontent.com/t1m0nch1k/computer-use-windows/main/scripts/screen.py",
+      "status": 200,
+      "sha256": "3b561bb59dece34a8c38bf602d18d07a34b50d760adc5a263c815775fbbbb14d"
+    },
+    "ceng-workflows": {
+      "url": "https://raw.githubusercontent.com/cenglin123/computer-use-mcp/master/skills/computer-use/workflows.md",
+      "status": 200,
+      "sha256": "29c1b37a63291be228014c0417d8ee015e9bb2c0954210c408541f6661128c65"
+    },
+    "claw-pixel": {
+      "url": "https://clawhub.ai/api/v1/skills/computer-use-windows/file?path=project/src/vendor/computer-use-mcp/pixelCompare.ts&owner=wimi321&version=0.1.1",
+      "status": 200,
+      "sha256": "72497c7af09a9a09c53146f4e0d0dce28ca29bc9fe216d5bd2ebbbdc01d32711"
+    },
+    "claw-resize": {
+      "url": "https://clawhub.ai/api/v1/skills/computer-use-windows/file?path=project/src/vendor/computer-use-mcp/imageResize.ts&owner=wimi321&version=0.1.1",
+      "status": 200,
+      "sha256": "252f662aeef513d1f6f6fa20b7a334b1a304f6bdf8315ea9c62cf9a6e4013236"
+    },
+    "win-window": {
+      "url": "https://raw.githubusercontent.com/t1m0nch1k/computer-use-windows/main/scripts/window.py",
+      "status": 200,
+      "sha256": "3bdd815db092306d9263999876b091d2b8266f02d94b83627d8395a0671014d5"
+    },
+    "win-license": {
+      "url": "https://raw.githubusercontent.com/t1m0nch1k/computer-use-windows/main/LICENSE",
+      "status": 200,
+      "sha256": "c57202b02a6b5d48c176fa5c6a5b307fc3f784b4ce6864bd733187a4752a329c"
+    },
+    "ceng-license": {
+      "url": "https://raw.githubusercontent.com/cenglin123/computer-use-mcp/master/LICENSE",
+      "status": 200,
+      "sha256": "a6742c5feab6ee649b04d39c4df05a7e7beb9bb903f933a8b818d71e87f82986"
+    }
+  }
+}
